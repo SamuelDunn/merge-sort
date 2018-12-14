@@ -1,5 +1,5 @@
 /*
- Definitions for the functions used to implement my version of the merge-sort
+ Definitions for the functions used to implement the merge-sort
  algorithm.
 */
 

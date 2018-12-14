@@ -1,6 +1,6 @@
 /*
- This file contains the declarations for the functions used to impliment my
- version of the merge-sort algorighm
+ This file contains the declarations for the functions used to the merge-sort
+ algorighm
 
 
  void myMergeSort(int *arrayToSort, int first, int end);
